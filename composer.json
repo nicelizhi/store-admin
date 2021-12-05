@@ -1,11 +1,11 @@
 {
-    "name": "steven/store-admin",
+    "name": "nicelizhi/store-admin",
     "description": "store admin",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Steven\\StoreAdmin\\": "src/"
+            "Nicelizhi\\StoreAdmin\\": "src/"
         }
     },
     "authors": [
