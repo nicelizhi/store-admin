@@ -1,0 +1,21 @@
+{
+    "name": "steven/store-admin",
+    "description": "store admin",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Steven\\StoreAdmin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Steven",
+            "email": "nice.lizhi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=7.4"
+	}
+}
