@@ -3,6 +3,8 @@
     "description": "store admin",
     "type": "library",
     "license": "MIT",
+    "keywords": ["laravel", "admin", "grid", "form","store","tianmao","taobao","jingdong"],
+    "homepage": "https://github.com/nicelizhi/store-admin",
     "autoload": {
         "psr-4": {
             "Nicelizhi\\StoreAdmin\\": "src/"
@@ -16,6 +18,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-		"php": ">=7.4"
+		"php": ">=7.0.0",
+        "encore/laravel-admin": ">1.6.0"
 	}
 }
